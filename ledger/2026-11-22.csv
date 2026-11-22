@@ -1,0 +1,47 @@
+logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
+2026-11-22T04:44:52Z,2026-11-22,PIT at DAL,Evgeni Malkin to score,Research only,26%,0aa4af25c5fa83815db31e28e7aed9eba46f1ccc3ffe5f19b0031ed27c268e9d,nan
+2026-11-22T04:44:52Z,2026-11-22,PIT at DAL,Rickard Rakell to score,Research only,31%,66ae920fbb6d735031b79540f5d04dd4593bed781f11c7e13902ff629236ccc6,nan
+2026-11-22T04:44:52Z,2026-11-22,PIT at DAL,Sidney Crosby to score,Research only,30%,3be602ec1bb8f1265b9d22395b4e14bf7a5ccace6efafdf4a91bbb064976bb2c,nan
+2026-11-22T04:44:52Z,2026-11-22,PIT at DAL,PIT +1.5,Research only,62%,e5fcd05297525fefd683c8b58fa6cc0a66a9866389a19c379d4872cb403e9dd4,nan
+2026-11-22T04:44:52Z,2026-11-22,CAR at NYR,CAR to win,Research only,63%,a471d29ad6a9c687df34b75dede1afe19f2c89112d27ad7f7a8e38d601e481fd,won
+2026-11-22T04:44:52Z,2026-11-22,CAR at NYR,Taylor Hall to score,Research only,21%,4bf84a353416dc34d0e859600eac64517298939da7ab388f3df4e5efc022d256,nan
+2026-11-22T04:44:52Z,2026-11-22,CAR at NYR,Under 4.5 goals,Research only,27%,e97e5c206d593da66d1eb5019e5886cfa71756bfbb07d98b8274354fe87a8c96,lost
+2026-11-22T04:44:52Z,2026-11-22,BUF at TBL,BUF to win,Research only,38%,d6bc7c6655303dbb1163eff3fbf396cb6edd8787582c42ee965e9b37062ea59a,nan
+2026-11-22T04:44:52Z,2026-11-22,BUF at TBL,Tage Thompson to score,Research only,41%,0188e10471bbd1334bce2754da32c1dc2097068ee3bf2ed1cb2f20c3619ee216,nan
+2026-11-22T04:44:52Z,2026-11-22,CHI at VAN,Under 4.5 goals,Research only,24%,779e9eb4781e200972cea18635b6667686e849a094cc394d5aeb8291c96d7037,nan
+2026-11-22T14:27:59Z,2026-11-22,PIT at DAL,Jamie Benn: no point,Research only,62%,85e81438ab377fc557c5197d77c2123a76ca256f5df649c8e862b056bfc68071,nan
+2026-11-22T14:27:59Z,2026-11-22,PIT at DAL,Tommy Novak under 1.5 shots on goal,Research only,49%,d00c48ef5238645d1f9423605ac8385adef60af941aafc4638a11fddba317a9c,nan
+2026-11-22T14:27:59Z,2026-11-22,PIT at DAL,DAL under 3.5 goals,Research only,54%,5d14ed7f23bdc140b8ddc90d5bf89c65a36779dcacd62ac4c553c1be70e50dbb,nan
+2026-11-22T14:27:59Z,2026-11-22,CAR at NYR,Gabe Perreault: no point,Research only,57%,981070f0470153683b0e1f7f62716a6c3afc91b15e95bc1201281d7f0a64c6d0,nan
+2026-11-22T14:27:59Z,2026-11-22,CAR at NYR,Brandon Bussi over 20.5 saves,Research only,58%,ea056cbd99bc64b378b0d3ab32baf73aeeff24dd8c67d83291f4ad2e07abe836,nan
+2026-11-22T14:27:59Z,2026-11-22,CAR at NYR,NYR +1.5,Research only,68%,816635174218662771eb079e6563b829940985b6d8cfbad964b4beb2a291faed,lost
+2026-11-22T14:27:59Z,2026-11-22,CAR at NYR,CAR under 3.5 goals,Research only,59%,0759e41fc726f1db79280e8b181f5fcb1110ebddccb6ef2e5900c0caefad78ad,lost
+2026-11-22T14:27:59Z,2026-11-22,EDM at STL,Leon Draisaitl: 1+ assists,Research only,59%,1b8ec1a8457415b80e162eabe3c9a1d6fe3e71ef0799f713c15ec75490f59918,nan
+2026-11-22T14:27:59Z,2026-11-22,EDM at STL,Jimmy Snuggerud: no point,Research only,46%,b453371fe7d47b18450e41d4dfe883cdd76d42d593af9d40bd87e0593f54a2c9,nan
+2026-11-22T14:27:59Z,2026-11-22,EDM at STL,Philip Broberg: no point,Research only,56%,34f1217fb104c77d9b7fcdc832ea8dcdd6ce925987bc05b7efc120a8c50ec2ac,nan
+2026-11-22T14:27:59Z,2026-11-22,EDM at STL,Vasily Podkolzin: no point,Research only,53%,ad3cfc36aa0c1416ca71dccc5e93c4ad2989b21e83f3afd4c79dbfa6b4e5f844,nan
+2026-11-22T14:27:59Z,2026-11-22,BUF at TBL,Rasmus Dahlin: no point,Research only,50%,4487e7693ee61fe3b3154d18c6a43c7006b76d800a378c4022d2412bd2491a5f,nan
+2026-11-22T14:27:59Z,2026-11-22,BUF at TBL,Sam O'Reilly: no point,Research only,63%,026d365da2feeffdacd706cec399556b47fbf4f58c02f12e5ddf0d8c593c2103,nan
+2026-11-22T14:27:59Z,2026-11-22,BUF at TBL,Jake Guentzel under 3.5 shots on goal,Research only,66%,641cd57f97afaf90692f49b1a00fd04f9c2146227feeaa72cb7e0ee874da9df5,nan
+2026-11-22T14:27:59Z,2026-11-22,BUF at TBL,Nikita Kucherov under 3.5 shots on goal,Research only,58%,15e8d908502ce48abc524b0b4407edeefd18a80f67abf1595e879925ab304e50,nan
+2026-11-22T14:27:59Z,2026-11-22,CHI at VAN,Frank Nazar: no assist,Research only,62%,e2dd7650b8d0cbf61ade818ad9ffc7ab6a864b67c8c34db454ee32ea53fac083,nan
+2026-11-22T14:27:59Z,2026-11-22,CHI at VAN,Filip Hronek: no assist,Research only,55%,4ab528d0776061383e7aa98e5ead52e626704bca73ccf6822f7500b879b31969,nan
+2026-11-22T14:27:59Z,2026-11-22,CHI at VAN,Roman Kantserov: no point,Research only,52%,e395f63a5c630392affca1cd9ddf4d1bddb1f1ceda28c41e42ce0b47866db0d0,nan
+2026-11-22T14:27:59Z,2026-11-22,CHI at VAN,VAN +1.5,Research only,75%,5a0071e03e65909048a0f85e9d189a8df4f9becf2ab70cad7328a9d179f9d203,nan
+2026-11-22T15:28:46Z,2026-11-22,PIT at DAL,Jamie Benn: no point,Research only,62%,d89850061c41a506ea96221bee841a4c4d8d774297f63bff6de6d1bba16316fc,nan
+2026-11-22T15:28:46Z,2026-11-22,CAR at NYR,Brandon Bussi over 19.5 saves,Research only,62%,7d43a7f0d3f7de1f4d07d672ee72c24b85108376ca5af7a2c67c3bef28341b4d,nan
+2026-11-22T15:28:46Z,2026-11-22,CAR at NYR,Under 6.5 goals,Research only,58%,ab4c0d6cb972f9e5c7e20dffdc5e72cf95c25a45b76729d0864252a7b9e37133,lost
+2026-11-22T15:28:46Z,2026-11-22,EDM at STL,Vasily Podkolzin: no point,Research only,53%,4349d8804c9194535aecdf985438ac1385ccef0425ac83112388f08402df7574,nan
+2026-11-22T15:28:46Z,2026-11-22,EDM at STL,Jimmy Snuggerud: no point,Research only,46%,14461c6f9249b92cc5765d87faccf0b4f026dda4fa91c397789a03b9892f840d,nan
+2026-11-22T15:28:46Z,2026-11-22,EDM at STL,Philip Broberg: no point,Research only,56%,8ca455d5cf2571da39caeb6e524851327d422a549206d5ff44b35418b87e57a4,nan
+2026-11-22T15:28:46Z,2026-11-22,BUF at TBL,Sam O'Reilly: no point,Research only,63%,4cb025a61cefeb7bd39f2eb5dfeccf4254707004f11968922d55ed5203f9dff5,nan
+2026-11-22T15:28:46Z,2026-11-22,CHI at VAN,Frank Nazar: no point,Research only,45%,5eeecb0c11dcd0f6dcf829ef7804708382ae0b0915d5505fe51dce7d20dfb4e2,nan
+2026-11-22T15:28:46Z,2026-11-22,CHI at VAN,Marco Rossi: no point,Research only,56%,e537abf1d4813ddb72c11cbe04518a89c12c6cac75dacc69c5be23801a46961c,nan
+2026-11-22T17:56:13Z,2026-11-22,EDM at STL,Dalibor Dvorsky: no point,Research only,65%,360832ea1ed14b1ef7e1e31315fd68121ff157d6d6624a6eb4e54c3bffad25d0,nan
+2026-11-22T17:56:13Z,2026-11-22,BUF at TBL,Brayden Point: no point,Research only,40%,65eeb8cebdc10e22b894118358be42aec6b058c14ecc19f1c9ef00f14eeab7c7,nan
+2026-11-22T17:56:13Z,2026-11-22,BUF at TBL,Sam O'Reilly under 1.5 shots on goal,Research only,60%,6621a15242023e425f4184f4b8b0e81da474c961c8351ab8c8336d3efec534bd,nan
+2026-11-22T17:56:13Z,2026-11-22,CHI at VAN,Filip Hronek: no point,Research only,50%,f776b9e35175c989c9c3ca2fb2b01c7fd2111bf1a157b6291c315553a79e3204,nan
+2026-11-22T17:56:13Z,2026-11-22,CHI at VAN,Frank Nazar: no point,Research only,44%,47500c8db39914ab5dcfb32e8782cea148bff44ded41196d284c6fe6eef25e65,nan
+2026-11-22T17:56:13Z,2026-11-22,CHI at VAN,Nikita Tolopilo over 22.5 saves,Research only,57%,16dc9dc19e3011dcf0ff951c36c771b1c112ac69b5d9a177be614091ec76e2eb,nan
+2026-11-22T17:56:13Z,2026-11-22,CHI at VAN,Ryan Donato under 1.5 shots on goal,Research only,58%,bd5ed50790cbf5a10a58a5c1d65e5c4cd7ca92a5024c77ec0fbdefdc01d0018c,nan
+2026-11-22T20:20:01Z,2026-11-22,CHI at VAN,Drew Commesso over 22.5 saves,Research only,55%,1b1e48ef0769032cdaf2989480e6147bc0f5c929db9b5bd93d55cac40ddda94a,nan
