@@ -68,3 +68,6 @@ logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
 2026-11-23T22:07:56Z,2026-11-23,ANA at SEA,Nico Myatovic: no point,Research only,73%,adaa8597e08c4c552d37f00e47a1406ad16b8c86b1b5fe58909463a46659afac,
 2026-11-23T22:07:56Z,2026-11-23,MIN at SJS,Brock Faber: no assist,Research only,58%,70d9a55ef144357cd1172d93c49373dbe4227abf2c13a598dd7a16717c987e35,
 2026-11-23T22:07:56Z,2026-11-23,UTA at WPG,Brayden Yager: no point,Research only,73%,788b780fe8ab1443eb22221ebd3e0893100ecdfb35d5e504c34fee6097ad5e83,
+2026-11-24T02:22:56Z,2026-11-23,ANA at SEA,Roger McQueen: no point,Research only,68%,581da38ad2e223322fb963f15687d6f7f8f5df64296bad3a967718f6d794e3f1,
+2026-11-24T02:22:56Z,2026-11-23,ANA at SEA,Nico Myatovic: no shot on goal,Research only,36%,a08cdd8abde00329cd418e1e5796b8594d867d3b900178bd928dadbe02f4dacd,
+2026-11-24T02:22:56Z,2026-11-23,MIN at SJS,Maxim Shabanov: no point,Research only,56%,02a635a99aca509ef9c82b5420f2f5edf56f7a7ff248d92dfc880bacdbaaffdb,
