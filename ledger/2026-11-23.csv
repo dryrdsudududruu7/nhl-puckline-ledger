@@ -20,21 +20,21 @@ logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
 2026-11-22T17:56:13Z,2026-11-23,UTA at WPG,Under 6.5 goals,Research only,55%,2673a0e024728d620587d0f0227818b97ba99776baaef94454ca01f08f5cd59b,won
 2026-11-22T20:20:01Z,2026-11-23,CBJ at NJD,Charlie Coyle to score,Research only,23%,d97f6ca1c60ecf3e905fd5112205322ed50b89a9c1db201daa794826a1eb6abd,won
 2026-11-22T20:20:01Z,2026-11-23,CBJ at NJD,Timo Meier to score,Research only,31%,6a96afdc72557ad3198e1cece99f534ac7c49e177dbdc296309ac7da6687e48a,won
-2026-11-22T20:20:01Z,2026-11-23,TOR at NYI,John Tavares to score,Research only,31%,ed977477ee766b258e22d7785fd523fd2c1a7bf8b20bbae7942fc0ef318109ec,lost
+2026-11-22T20:20:01Z,2026-11-23,TOR at NYI,John Tavares to score,Research only,31%,ed977477ee766b258e22d7785fd523fd2c1a7bf8b20bbae7942fc0ef318109ec,duplicate (not counted)
 2026-11-22T20:20:01Z,2026-11-23,ANA at SEA,Bobby McMann under 2.5 shots on goal,Research only,58%,9677ad246a55290923f8f84eb688bad9fdb78387437f6837029d3ce7b043ded4,won
 2026-11-22T20:20:01Z,2026-11-23,MIN at SJS,Ivar Stenberg under 1.5 shots on goal,Research only,48%,d1c774902caf2628d74b5f499cb002864cd731e03bf57aa8616a66899dc5bf71,won
 2026-11-22T20:20:01Z,2026-11-23,MIN at SJS,Kirill Kaprizov under 3.5 shots on goal,Research only,56%,4e5ff9cdedfd8170d1fc5702d592711ca45e04d1698e39f792e1277829a96301,won
 2026-11-22T20:20:01Z,2026-11-23,UTA at WPG,Gabriel Vilardi to score,Research only,31%,ddab047b879120d3b5adebba072883399390b1314bdd6f7744462c1521386e19,won
-2026-11-22T21:08:10Z,2026-11-23,CBJ at NJD,Timo Meier to score,Research only,31%,c44cabe71afe15daa7b164f6c932aa086cdeddae4d4c7b36ebb0b4e6926fe5b7,won
-2026-11-22T21:08:10Z,2026-11-23,UTA at WPG,Gabriel Vilardi to score,Research only,31%,6d6c86895772ea451accf1ec287dd59248542d05279d445a29560451a56eb993,won
+2026-11-22T21:08:10Z,2026-11-23,CBJ at NJD,Timo Meier to score,Research only,31%,c44cabe71afe15daa7b164f6c932aa086cdeddae4d4c7b36ebb0b4e6926fe5b7,duplicate (not counted)
+2026-11-22T21:08:10Z,2026-11-23,UTA at WPG,Gabriel Vilardi to score,Research only,31%,6d6c86895772ea451accf1ec287dd59248542d05279d445a29560451a56eb993,duplicate (not counted)
 2026-11-23T01:50:38Z,2026-11-23,LAK at MTL,Artemi Panarin to score,Research only,39%,6995a3b28f0a132e3aa61e411c15d31d5454cdba9d72fba93308065465a83e6c,lost
 2026-11-23T01:50:38Z,2026-11-23,CBJ at NJD,Kent Johnson: 1+ assists,Research only,34%,3eb60efa9e4ae5c81a3d52799583e25203a533aa478c6df241777c9eae9ffb98,lost
-2026-11-23T01:50:38Z,2026-11-23,CBJ at NJD,Timo Meier to score,Research only,31%,7196947ec18930b3ec8534e7b55b07aeb456aff0d6b4925f6ccd997ef8c25e1c,won
+2026-11-23T01:50:38Z,2026-11-23,CBJ at NJD,Timo Meier to score,Research only,31%,7196947ec18930b3ec8534e7b55b07aeb456aff0d6b4925f6ccd997ef8c25e1c,duplicate (not counted)
 2026-11-23T01:50:38Z,2026-11-23,CBJ at NJD,Jesper Bratt over 1.5 shots on goal,Research only,66%,ff7a4a004d2fd50bf50c62a01d369596f2d8361f5528b52cfe437cba333876da,lost
 2026-11-23T01:50:38Z,2026-11-23,ANA at SEA,Bobby McMann: no point,Research only,54%,ad084266be9e6dc4981e5232b6e40402f68211c0962e204c43e4042b9c2ed722,lost
 2026-11-23T01:50:38Z,2026-11-23,ANA at SEA,Cutter Gauthier under 3.5 shots on goal,Research only,46%,d860917ac6b129c20180d34d990f9dc0368bda87e6255bc25619cec27baf1861,lost
 2026-11-23T01:50:38Z,2026-11-23,MIN at SJS,Under 4.5 goals,Research only,24%,fef332368c05173508ad09abdb81f20ef435de0c26844246d5a111926f72aadb,lost
-2026-11-23T01:50:38Z,2026-11-23,UTA at WPG,Gabriel Vilardi to score,Research only,31%,17979180a103796afab864897f1d64c42a6cc1d9201491e78a30f04e4528c62d,won
+2026-11-23T01:50:38Z,2026-11-23,UTA at WPG,Gabriel Vilardi to score,Research only,31%,17979180a103796afab864897f1d64c42a6cc1d9201491e78a30f04e4528c62d,duplicate (not counted)
 2026-11-23T07:42:17Z,2026-11-23,LAK at MTL,Alexandre Texier under 2.5 shots on goal,Research only,67%,d3e252f06d09a701dab4a519f8e65ed06f060121c939622fbcb88b3e8f634699,won
 2026-11-23T07:42:17Z,2026-11-23,LAK at MTL,Nick Suzuki under 2.5 shots on goal,Research only,52%,51822786189e63a0f395b263696e512c95949c87b1984afc74b04b0415dcf3b3,won
 2026-11-23T07:42:17Z,2026-11-23,LAK at MTL,Zachary Bolduc under 1.5 shots on goal,Research only,50%,9698f2998a91724fd53550e8805636c51da66a8960b33b71890bf3e4424b7a91,lost
@@ -52,7 +52,7 @@ logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
 2026-11-23T07:42:17Z,2026-11-23,UTA at WPG,Vincent Trocheck under 2.5 shots on goal,Research only,63%,5ace83093b86bfa2d6cb9106638f890a4f2e21d2bb560f79b4b87509b75f719b,lost
 2026-11-23T09:18:32Z,2026-11-23,CBJ at NJD,Arseny Gritsyuk: no assist,Research only,64%,74b381c2b2a63cfa2e7d9dea8182ec64ffe5dfa13af30c02497970bfc378feba,won
 2026-11-23T09:18:32Z,2026-11-23,CBJ at NJD,Luke Hughes: no assist,Research only,58%,4efdd14fb9910f777a7ba614aee3b02574f059e162efce304b2b1d14e599280d,won
-2026-11-23T09:18:32Z,2026-11-23,CGY at OTT,Zayne Parekh: no point,Research only,66%,cf7700a6c52f2f900044136662abbe61490e6a6922e3fee6c487a875516558b9,won
+2026-11-23T09:18:32Z,2026-11-23,CGY at OTT,Zayne Parekh: no point,Research only,66%,cf7700a6c52f2f900044136662abbe61490e6a6922e3fee6c487a875516558b9,duplicate (not counted)
 2026-11-23T21:29:35Z,2026-11-23,LAK at MTL,Alexandre Carrier under 2.5 blocked shots,Research only,66%,b9cf1746a3d615141ba0b27523ddb9413a49cbce848e7900bc5efa78c5b106de,won
 2026-11-23T21:29:35Z,2026-11-23,CBJ at NJD,Valeri Nichushkin: 1+ points,Research only,40%,a7dc6944c5fb1dca527fa6dd004b3a4be495ecfc51a924211cb5fb2b709ca5df,lost
 2026-11-23T21:29:35Z,2026-11-23,CBJ at NJD,Connor Brown under 1.5 shots on goal,Research only,52%,19ed19337115b072170ca16534170180f1b67ce4f10f8964fabd893937b5ee27,lost
@@ -65,9 +65,9 @@ logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
 2026-11-23T21:29:35Z,2026-11-23,UTA at WPG,Stuart Skinner under 24.5 saves,Research only,58%,61c465415c995a92f78a8e9aa4e36a5e28c566c01a4d908a3a1466791fa0bd71,lost
 2026-11-23T21:29:35Z,2026-11-23,UTA at WPG,Vincent Trocheck under 1.5 shots on goal,Research only,41%,d155f9c75573efb6d406929054a0afdf1bf1b3cef897e4fe095d1da12134cc30,lost
 2026-11-23T22:07:56Z,2026-11-23,TOR at NYI,Gavin McKenna under 1.5 shots on goal,Research only,51%,c73a3d28999a855f029c74988309a77f5552826124ef4132f0e52b4fa8c95dc3,lost
-2026-11-23T22:07:56Z,2026-11-23,ANA at SEA,Nico Myatovic: no point,Research only,73%,adaa8597e08c4c552d37f00e47a1406ad16b8c86b1b5fe58909463a46659afac,won
-2026-11-23T22:07:56Z,2026-11-23,MIN at SJS,Brock Faber: no assist,Research only,58%,70d9a55ef144357cd1172d93c49373dbe4227abf2c13a598dd7a16717c987e35,won
-2026-11-23T22:07:56Z,2026-11-23,UTA at WPG,Brayden Yager: no point,Research only,73%,788b780fe8ab1443eb22221ebd3e0893100ecdfb35d5e504c34fee6097ad5e83,won
+2026-11-23T22:07:56Z,2026-11-23,ANA at SEA,Nico Myatovic: no point,Research only,73%,adaa8597e08c4c552d37f00e47a1406ad16b8c86b1b5fe58909463a46659afac,duplicate (not counted)
+2026-11-23T22:07:56Z,2026-11-23,MIN at SJS,Brock Faber: no assist,Research only,58%,70d9a55ef144357cd1172d93c49373dbe4227abf2c13a598dd7a16717c987e35,duplicate (not counted)
+2026-11-23T22:07:56Z,2026-11-23,UTA at WPG,Brayden Yager: no point,Research only,73%,788b780fe8ab1443eb22221ebd3e0893100ecdfb35d5e504c34fee6097ad5e83,duplicate (not counted)
 2026-11-24T02:22:56Z,2026-11-23,ANA at SEA,Roger McQueen: no point,Research only,68%,581da38ad2e223322fb963f15687d6f7f8f5df64296bad3a967718f6d794e3f1,lost
 2026-11-24T02:22:56Z,2026-11-23,ANA at SEA,Nico Myatovic: no shot on goal,Research only,36%,a08cdd8abde00329cd418e1e5796b8594d867d3b900178bd928dadbe02f4dacd,lost
-2026-11-24T02:22:56Z,2026-11-23,MIN at SJS,Maxim Shabanov: no point,Research only,56%,02a635a99aca509ef9c82b5420f2f5edf56f7a7ff248d92dfc880bacdbaaffdb,won
+2026-11-24T02:22:56Z,2026-11-23,MIN at SJS,Maxim Shabanov: no point,Research only,56%,02a635a99aca509ef9c82b5420f2f5edf56f7a7ff248d92dfc880bacdbaaffdb,duplicate (not counted)
