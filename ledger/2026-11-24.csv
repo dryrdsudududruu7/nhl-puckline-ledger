@@ -1,16 +1,16 @@
 logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
 2026-11-23T21:29:35Z,2026-11-24,VGK at EDM,VGK to win,Research only,57%,d4ea83a175d2c09e37710a25be963d27bceb9fd679c3e04efdcf38e5cb2a7800,won
-2026-11-23T21:29:35Z,2026-11-24,VGK at EDM,Mitch Marner to score,Research only,28%,03f64c181f0f83fb93c5a06592ccf07086376db11315c04e367703237cc84ae4,
-2026-11-23T22:07:56Z,2026-11-24,VGK at EDM,Mitch Marner to score,Research only,28%,5ba8a26a3a650bfafdb9586be14ea613b99b34b222762534c404e612f3b695ed,
-2026-11-24T02:22:56Z,2026-11-24,VGK at EDM,Mitchell Marner to score,Research only,28%,637de743787c3ff538762b044ef812bf8e0598b94b6a9bb0ff4934ba268215e0,
-2026-11-24T02:22:56Z,2026-11-24,VGK at EDM,William Karlsson to score,Research only,23%,4b92c42eeb0b0400a9496a7d572e6fde84e8fd58873a4023c97616f52549eed6,
-2026-11-24T05:58:10Z,2026-11-24,VGK at EDM,Leon Draisaitl: 1+ assists,Research only,61%,76c14b9b2700a05bf059bb8a419006f2df40b906193a55b38747675c7f2baecc,
-2026-11-24T05:58:10Z,2026-11-24,VGK at EDM,Kasperi Kapanen under 1.5 shots on goal,Research only,51%,dcb1024c81f715fa127bca9454fb44b93348b38ca10b983a0c2a61c16cd543a8,
-2026-11-24T09:56:56Z,2026-11-24,VGK at EDM,William Karlsson: 1+ points,Research only,44%,ccd55bbbc3174cf2aba70ec8a223ed070e23fcccf77b0f39e0fa81e3ec4102e7,
-2026-11-24T09:56:56Z,2026-11-24,VGK at EDM,Leon Draisaitl under 3.5 shots on goal,Research only,58%,778e91990a6e2d6f7bbc24ad5a33bc7836de7f42e0318aeb791a644fe5b81fb2,
-2026-11-24T11:12:31Z,2026-11-24,VGK at EDM,Leon Draisaitl: 1+ assists,Research only,62%,08613da51372bed6540c3f8e35d55b0859bf113178c104481a38e15a3638a71e,
-2026-11-24T11:12:31Z,2026-11-24,VGK at EDM,Connor McDavid to score,Research only,40%,daf9e45f9836e9b8cea54d9349e65662910cab505eb6a1baaa3e4c69d9ab63eb,
-2026-11-24T11:12:31Z,2026-11-24,VGK at EDM,William Karlsson: 1+ points,Research only,44%,9f40f6964fa1d9c43384a6547dab1d2ec1da46eb0f24b6cfc325479013ec9704,
-2026-11-24T20:43:49Z,2026-11-24,VGK at EDM,Connor McDavid: 1+ points,Research only,83%,f0534daf6e13abb2ebe056c351eb9337b242c56f96d814f1a1d83b6d732a95df,
+2026-11-23T21:29:35Z,2026-11-24,VGK at EDM,Mitch Marner to score,Research only,28%,03f64c181f0f83fb93c5a06592ccf07086376db11315c04e367703237cc84ae4,lost
+2026-11-23T22:07:56Z,2026-11-24,VGK at EDM,Mitch Marner to score,Research only,28%,5ba8a26a3a650bfafdb9586be14ea613b99b34b222762534c404e612f3b695ed,lost
+2026-11-24T02:22:56Z,2026-11-24,VGK at EDM,Mitchell Marner to score,Research only,28%,637de743787c3ff538762b044ef812bf8e0598b94b6a9bb0ff4934ba268215e0,lost
+2026-11-24T02:22:56Z,2026-11-24,VGK at EDM,William Karlsson to score,Research only,23%,4b92c42eeb0b0400a9496a7d572e6fde84e8fd58873a4023c97616f52549eed6,lost
+2026-11-24T05:58:10Z,2026-11-24,VGK at EDM,Leon Draisaitl: 1+ assists,Research only,61%,76c14b9b2700a05bf059bb8a419006f2df40b906193a55b38747675c7f2baecc,lost
+2026-11-24T05:58:10Z,2026-11-24,VGK at EDM,Kasperi Kapanen under 1.5 shots on goal,Research only,51%,dcb1024c81f715fa127bca9454fb44b93348b38ca10b983a0c2a61c16cd543a8,won
+2026-11-24T09:56:56Z,2026-11-24,VGK at EDM,William Karlsson: 1+ points,Research only,44%,ccd55bbbc3174cf2aba70ec8a223ed070e23fcccf77b0f39e0fa81e3ec4102e7,won
+2026-11-24T09:56:56Z,2026-11-24,VGK at EDM,Leon Draisaitl under 3.5 shots on goal,Research only,58%,778e91990a6e2d6f7bbc24ad5a33bc7836de7f42e0318aeb791a644fe5b81fb2,won
+2026-11-24T11:12:31Z,2026-11-24,VGK at EDM,Leon Draisaitl: 1+ assists,Research only,62%,08613da51372bed6540c3f8e35d55b0859bf113178c104481a38e15a3638a71e,lost
+2026-11-24T11:12:31Z,2026-11-24,VGK at EDM,Connor McDavid to score,Research only,40%,daf9e45f9836e9b8cea54d9349e65662910cab505eb6a1baaa3e4c69d9ab63eb,won
+2026-11-24T11:12:31Z,2026-11-24,VGK at EDM,William Karlsson: 1+ points,Research only,44%,9f40f6964fa1d9c43384a6547dab1d2ec1da46eb0f24b6cfc325479013ec9704,won
+2026-11-24T20:43:49Z,2026-11-24,VGK at EDM,Connor McDavid: 1+ points,Research only,83%,f0534daf6e13abb2ebe056c351eb9337b242c56f96d814f1a1d83b6d732a95df,won
 2026-11-24T23:31:56Z,2026-11-24,VGK at EDM,VGK under 3.5 goals,Research only,58%,25320fa2cb8bd43eccf859c5e6e2537820921bc4a7623122d305d94d4e6132ca,lost
 2026-11-24T23:31:56Z,2026-11-24,VGK at EDM,Under 6.5 goals,Research only,50%,66d68ac5a947cb0fa13ccb9964441aa0c9ba13e3117e712d0a68f5406a4c6386,lost
