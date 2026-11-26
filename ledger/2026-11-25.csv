@@ -4,42 +4,42 @@ logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
 2026-11-24T20:43:49Z,2026-11-25,SJS at ANA,Under 6.5 goals,Research only,52%,b7236e211fac35119db9f7b3c8698146a8910dc1579819489fdc63ae971d0830,
 2026-11-24T20:43:49Z,2026-11-25,WPG at BOS,Kyle Connor under 3.5 shots on goal,Research only,52%,dbb150d2832d4275a0d45d85c7d3248d1d4cd208c2ab1293c0fb0718e94d92ea,
 2026-11-24T20:43:49Z,2026-11-25,WPG at BOS,Morgan Geekie under 1.5 shots on goal,Research only,44%,10029177fa7b11066f2b3fd09b00f0cfc83abe2d9763c649652d5d47a52ad6d5,
-2026-11-24T20:43:49Z,2026-11-25,WPG at BOS,BOS under 3.5 goals,Research only,57%,9bee31e71ed5dcdf481809d45ecd306cdcca2ab42d4e614c694bb6d5da673e3a,
-2026-11-24T20:43:49Z,2026-11-25,WPG at BOS,Under 6.5 goals,Research only,58%,adb08cb401fd9c7edea3c45407e55226b5d3a87bf94802db86b7a6f7b0a5b0ff,
+2026-11-24T20:43:49Z,2026-11-25,WPG at BOS,BOS under 3.5 goals,Research only,57%,9bee31e71ed5dcdf481809d45ecd306cdcca2ab42d4e614c694bb6d5da673e3a,won
+2026-11-24T20:43:49Z,2026-11-25,WPG at BOS,Under 6.5 goals,Research only,58%,adb08cb401fd9c7edea3c45407e55226b5d3a87bf94802db86b7a6f7b0a5b0ff,won
 2026-11-24T20:43:49Z,2026-11-25,NYR at BUF,Tage Thompson under 3.5 shots on goal,Research only,52%,5651b2e614b8446f3a50aea8ef3dbe99586f409e7a03d457262486f63c6e6b8c,
-2026-11-24T20:43:49Z,2026-11-25,NYR at BUF,NYR +1.5,Research only,70%,dab6d2cf08dd2fb59e9da065e1e1ea6e13c6c6facbf40eb60fef1cdab77721e9,
-2026-11-24T20:43:49Z,2026-11-25,NJD at CBJ,CBJ +1.5,Research only,68%,d535c04e70e2720dad16b5a5615765ebded9035a196e29abac64ec94a3456b1b,
+2026-11-24T20:43:49Z,2026-11-25,NYR at BUF,NYR +1.5,Research only,70%,dab6d2cf08dd2fb59e9da065e1e1ea6e13c6c6facbf40eb60fef1cdab77721e9,lost
+2026-11-24T20:43:49Z,2026-11-25,NJD at CBJ,CBJ +1.5,Research only,68%,d535c04e70e2720dad16b5a5615765ebded9035a196e29abac64ec94a3456b1b,won
 2026-11-24T20:43:49Z,2026-11-25,MTL at COL,Cale Makar to score,Research only,23%,01af72fbc606f4e83562138538e7d7dc6fbfc9c4b3629249a51252f2dc66b40b,
 2026-11-24T20:43:49Z,2026-11-25,MTL at COL,COL -1.5,Research only,37%,d63b9dba7f6b713b2ff4c1b507b16f9f29098c3042975042d5e5484313b87f27,
 2026-11-24T20:43:49Z,2026-11-25,MTL at COL,MTL under 2.5 goals,Research only,46%,130a4662da3d2f7be81ddb8e36dc0e7cc3178606b6af60c249fec2338e6c8370,
 2026-11-24T20:43:49Z,2026-11-25,NSH at DAL,Miro Heiskanen: 1+ assists,Research only,49%,3422696fa8121531ee95d4cb37d8a0690b444b518a5b1001fdd1c0bea7d0c078,
 2026-11-24T20:43:49Z,2026-11-25,NSH at DAL,Jason Robertson: 1+ points,Research only,72%,68f26ae50c87a66f01be2c855d9c08e7367ccbef554c766c3ae26e711f72621a,
 2026-11-24T20:43:49Z,2026-11-25,NSH at DAL,Mikko Rantanen: 1+ points,Research only,74%,de6130c6aabf9289102321ece83eb9c6f09e83eed9a9f3b48a6726f783ff130f,
-2026-11-24T20:43:49Z,2026-11-25,NSH at DAL,NSH +1.5,Research only,65%,e58c4d68b767e5214dee0023a73c197dd07908bac7d3c58f83eb2dc0a118bb6f,
+2026-11-24T20:43:49Z,2026-11-25,NSH at DAL,NSH +1.5,Research only,65%,e58c4d68b767e5214dee0023a73c197dd07908bac7d3c58f83eb2dc0a118bb6f,won
 2026-11-24T20:43:49Z,2026-11-25,VAN at DET,Lucas Raymond: 1+ assists,Research only,49%,01818daf1fd25d9a9928492140a3c22b310f2c060edd1145c800aeb3c24900dc,
 2026-11-24T20:43:49Z,2026-11-25,VAN at DET,Filip Chytil under 2.5 shots on goal,Research only,67%,55a4be791e7d14af65469ac57adc3cd61682dc3199ae49ef078049ab0b4bd9df,
-2026-11-24T20:43:49Z,2026-11-25,VAN at DET,VAN +1.5,Research only,65%,25f621d37cc7c60d89e213764d1bafede7d69b99e9508dad2429a72646b20af6,
-2026-11-24T20:43:49Z,2026-11-25,VAN at DET,DET under 3.5 goals,Research only,55%,3c3d41068517b3caa574da7ac2a6bba194ad0b486c86cbcb08d9de9832bb695d,
-2026-11-24T20:43:49Z,2026-11-25,OTT at FLA,FLA -1.5,Research only,34%,aebd07b6bd4f7384170d04df0531c579bbe6d523337da6885fb0771922d6be4b,
-2026-11-24T20:43:49Z,2026-11-25,OTT at FLA,Over 5.5 goals,Research only,57%,90938cf49515cd196a938488389e4f8a20545158f42d20a42e18d2494fb906c1,
+2026-11-24T20:43:49Z,2026-11-25,VAN at DET,VAN +1.5,Research only,65%,25f621d37cc7c60d89e213764d1bafede7d69b99e9508dad2429a72646b20af6,lost
+2026-11-24T20:43:49Z,2026-11-25,VAN at DET,DET under 3.5 goals,Research only,55%,3c3d41068517b3caa574da7ac2a6bba194ad0b486c86cbcb08d9de9832bb695d,lost
+2026-11-24T20:43:49Z,2026-11-25,OTT at FLA,FLA -1.5,Research only,34%,aebd07b6bd4f7384170d04df0531c579bbe6d523337da6885fb0771922d6be4b,won
+2026-11-24T20:43:49Z,2026-11-25,OTT at FLA,Over 5.5 goals,Research only,57%,90938cf49515cd196a938488389e4f8a20545158f42d20a42e18d2494fb906c1,won
 2026-11-24T20:43:49Z,2026-11-25,UTA at MIN,Blake Coleman to score,Research only,23%,758799853797b829d6998c58e3ea571703725d87a1d6dc795c85a47cd5feb500,
 2026-11-24T20:43:49Z,2026-11-25,UTA at MIN,Vincent Trocheck under 2.5 shots on goal,Research only,68%,a0e2b5333739c013b811abedfab5f708e83b86b8f8dfc05b3f149e0d4f78ccc0,
-2026-11-24T20:43:49Z,2026-11-25,UTA at MIN,Under 6.5 goals,Research only,55%,52cab6595c585665425432a27fc7bdbd0a8e2430148c85221cbf7f6568ba1314,
-2026-11-24T20:43:49Z,2026-11-25,STL at NYI,STL to win,Research only,53%,fd1431d48bf40be483f01d1ae349af224906616dcc0ffde4cccee37c9afbcfc0,
+2026-11-24T20:43:49Z,2026-11-25,UTA at MIN,Under 6.5 goals,Research only,55%,52cab6595c585665425432a27fc7bdbd0a8e2430148c85221cbf7f6568ba1314,lost
+2026-11-24T20:43:49Z,2026-11-25,STL at NYI,STL to win,Research only,53%,fd1431d48bf40be483f01d1ae349af224906616dcc0ffde4cccee37c9afbcfc0,lost
 2026-11-24T20:43:49Z,2026-11-25,STL at NYI,Pavel Buchnevich to score,Research only,23%,ba1a0fdf313859b5731138219ee898b5d08d301a9b49a5c116c40b64c484f380,
 2026-11-24T20:43:49Z,2026-11-25,STL at NYI,Bo Horvat to score,Research only,40%,96852f5cb3af677eb5311b3a1a09cd10b061b5553f6d0d7f6ce9f889ce2f738e,
 2026-11-24T20:43:49Z,2026-11-25,STL at NYI,Brayden Schenn to score,Research only,23%,054326a59d661d43d73759c6b71800bb619e05d102670465df5d0186248799df,
 2026-11-24T20:43:49Z,2026-11-25,CGY at PIT,Evgeni Malkin to score,Research only,31%,e215f41d723020ec2dd3fd507af8d778a5faf0ce397c45738be3650fb1acf288,
 2026-11-24T20:43:49Z,2026-11-25,CGY at PIT,Rickard Rakell under 2.5 shots on goal,Research only,46%,773eb9f3aee595bc2376d29f493265b79a02dd30f94a3c7a53ee2371d8cd1b5d,
-2026-11-24T20:43:49Z,2026-11-25,CGY at PIT,CGY +1.5,Research only,66%,5e1ea3c696e6d4a50be0f631659b082c936250a10a0d5abed35a11984f9fa3bd,
+2026-11-24T20:43:49Z,2026-11-25,CGY at PIT,CGY +1.5,Research only,66%,5e1ea3c696e6d4a50be0f631659b082c936250a10a0d5abed35a11984f9fa3bd,won
 2026-11-24T20:43:49Z,2026-11-25,CHI at SEA,Brandon Montour: 1+ assists,Research only,41%,ff944345c6d752f7038c99c7ed953cc85a11dcb8b175cfcb72d1e1c20a25ed6c,
 2026-11-24T20:43:49Z,2026-11-25,CHI at SEA,Roman Kantserov under 2.5 shots on goal,Research only,67%,c2ed0782c17b22801f263567669a6a544bd8124ce5a9dce965708be9938964a9,
 2026-11-24T20:43:49Z,2026-11-25,CHI at SEA,Sam Rinzel under 1.5 shots on goal,Research only,50%,207d8b69b65b630ec1cdae4f2e4d1d12ec0367bef0af14e4ac7402502d7fe338,
 2026-11-24T20:43:49Z,2026-11-25,CHI at SEA,Tyler Bertuzzi under 1.5 shots on goal,Research only,45%,bde54a351b79bfee155ba4ba05b9d0d8e4c7031b0592f559e9898bc9b0f7fd06,
 2026-11-24T20:43:49Z,2026-11-25,CAR at TBL,Brandon Hagel over 2.5 shots on goal,Research only,56%,2cc911ddc865293fc406baefff5338fd9393e3ae8c11915d892aa1d331600a5d,
 2026-11-24T20:43:49Z,2026-11-25,CAR at TBL,John Carlson over 1.5 shots on goal,Research only,58%,2e8ce28008816adb49a1197c8fb8971750b006b69f67c8ff503ba0a33ce5a476,
-2026-11-24T20:43:49Z,2026-11-25,CAR at TBL,TBL +1.5,Research only,71%,854ea271164c162978b29766dd9f7ae0dbceb4a5826c3190fec6e86e0d2084bb,
-2026-11-24T20:43:49Z,2026-11-25,CAR at TBL,CAR under 3.5 goals,Research only,60%,1e3b28535df2866f4ac8d72e64982dd7fec96ef4c9af200467ad69c06b34c7ba,
+2026-11-24T20:43:49Z,2026-11-25,CAR at TBL,TBL +1.5,Research only,71%,854ea271164c162978b29766dd9f7ae0dbceb4a5826c3190fec6e86e0d2084bb,lost
+2026-11-24T20:43:49Z,2026-11-25,CAR at TBL,CAR under 3.5 goals,Research only,60%,1e3b28535df2866f4ac8d72e64982dd7fec96ef4c9af200467ad69c06b34c7ba,won
 2026-11-24T20:43:49Z,2026-11-25,PHI at WSH,Aliaksei Protas to score,Research only,21%,499e54d5edc6040540b01bcb58344c08b4578232dcf34ffa88ffbb49800d3cc5,
 2026-11-24T20:43:49Z,2026-11-25,PHI at WSH,Boone Jenner to score,Research only,21%,e0e008d4b8366924941ac52617c2682d2cae0dab4e94a22bd9b24213e42c0015,
 2026-11-24T23:31:56Z,2026-11-25,NSH at DAL,Jason Robertson: 1+ points,Research only,72%,827039329dc2f1c15a976e91dd7acf193dc8790870afcc638e1211ec094acc64,duplicate (not counted)
@@ -49,8 +49,8 @@ logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
 2026-11-24T23:31:56Z,2026-11-25,CHI at SEA,Brandon Montour: 1+ assists,Research only,41%,955ecd3852723dc72b49ed3fe4ac47a8a97f75d33e71ab1b9705c0b15b764f74,duplicate (not counted)
 2026-11-24T23:31:56Z,2026-11-25,PHI at WSH,Aliaksei Protas to score,Research only,21%,d7fb0af9b17a229d3968d814956952bee00791e150a24f7d76bfdfc8d5e687ca,duplicate (not counted)
 2026-11-24T23:31:56Z,2026-11-25,PHI at WSH,Boone Jenner to score,Research only,21%,24cbf283fdcac1c60b0f733e854b9556260faec60f00ebcd36727d19aa1b1782,duplicate (not counted)
-2026-11-24T23:57:55Z,2026-11-25,WPG at BOS,Under 4.5 goals,Research only,27%,fbdb1501306670f70c3cff919a7c7562550c8be3d67cc3842aac843a31f4336f,
-2026-11-24T23:57:55Z,2026-11-25,NYR at BUF,Under 4.5 goals,Research only,24%,916da764b4a04f0753e01ac57c9d20b8d4b46850185fef3cd34f840706bff9db,
+2026-11-24T23:57:55Z,2026-11-25,WPG at BOS,Under 4.5 goals,Research only,27%,fbdb1501306670f70c3cff919a7c7562550c8be3d67cc3842aac843a31f4336f,lost
+2026-11-24T23:57:55Z,2026-11-25,NYR at BUF,Under 4.5 goals,Research only,24%,916da764b4a04f0753e01ac57c9d20b8d4b46850185fef3cd34f840706bff9db,lost
 2026-11-24T23:57:55Z,2026-11-25,NSH at DAL,Miro Heiskanen: 1+ assists,Research only,49%,0b0b10a368b26ae73fb4da76d9b9edf8cf2f292d153abb6fb5ae64876ceb9e09,duplicate (not counted)
 2026-11-24T23:57:55Z,2026-11-25,VAN at DET,Lucas Raymond: 1+ assists,Research only,49%,433bca38243f22f301e6b06ec0c2fa9b82f704079f58a01f48111586f3b7532d,duplicate (not counted)
 2026-11-24T23:57:55Z,2026-11-25,UTA at MIN,Blake Coleman to score,Research only,23%,7a5e383b28b80c74dbd9de50be11cb6e571a50db62f713ff8911832e15919bb2,duplicate (not counted)
@@ -83,7 +83,7 @@ logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
 2026-11-25T04:53:55Z,2026-11-25,CGY at PIT,Yegor Sharangovich under 1.5 shots on goal,Research only,46%,cea03f904ea7cbe507a5a34a3c376898c38689237b56f06e2567cc7b28e939ca,
 2026-11-25T04:53:55Z,2026-11-25,CHI at SEA,Jordan Eberle: no point,Research only,49%,08a73326f2d3beb7010baf4184cd4e08403adca687f97b3b1aac660cf94f1f28,
 2026-11-25T04:53:55Z,2026-11-25,CHI at SEA,Berkly Catton under 1.5 shots on goal,Research only,46%,c38c84fe3a6c74a22fec354fe4011c0f161c124ec595975dc076e4793a2737be,
-2026-11-25T04:53:55Z,2026-11-25,CAR at TBL,Under 6.5 goals,Research only,55%,983a79f08d933aa5f6c37cba65190eae5da764cf021fa93614f00b5a71ab7605,
+2026-11-25T04:53:55Z,2026-11-25,CAR at TBL,Under 6.5 goals,Research only,55%,983a79f08d933aa5f6c37cba65190eae5da764cf021fa93614f00b5a71ab7605,won
 2026-11-25T04:53:55Z,2026-11-25,PHI at WSH,Alex Ovechkin under 2.5 shots on goal,Research only,65%,b169257a5d9d63c265216d72db623dbf1019062db2fc48f72054344691c293d1,
 2026-11-25T04:53:55Z,2026-11-25,PHI at WSH,Pierre-Luc Dubois under 1.5 shots on goal,Research only,48%,ce95514f4256b65fb26ee438549451896651266d0973b3f003de35cc85d0dc5f,
 2026-11-25T04:53:55Z,2026-11-25,PHI at WSH,Tom Wilson under 1.5 shots on goal,Research only,44%,630b3eef80e2b78bdc836b7d5150eda36855b1ba8dd0567883ca9a881696c0e9,
@@ -98,7 +98,7 @@ logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
 2026-11-25T08:38:24Z,2026-11-25,OTT at FLA,Aleksander Barkov: no point,Research only,49%,107454379312cb7cbdb78f83ae6d789018b41a8b76a0c2abc374a49d222efb90,duplicate (not counted)
 2026-11-25T08:38:24Z,2026-11-25,UTA at MIN,Brock Faber: no assist,Research only,57%,1a4713e01b9f9e81acbda5285df0f9f8bce3c37f1c43bb65108dfd6a8e8e0ff4,
 2026-11-25T08:38:24Z,2026-11-25,STL at NYI,Philip Broberg under 1.5 shots on goal,Research only,45%,3be3053b415f04589d80aee98987fa65745e7c343b9772f6c977b0be2beb73e2,
-2026-11-25T08:38:24Z,2026-11-25,STL at NYI,Under 4.5 goals,Research only,29%,527424cc1f826c0a2b721e8a67d9d26229d3d88482692d13eed559ad9afc5434,
+2026-11-25T08:38:24Z,2026-11-25,STL at NYI,Under 4.5 goals,Research only,29%,527424cc1f826c0a2b721e8a67d9d26229d3d88482692d13eed559ad9afc5434,lost
 2026-11-25T08:38:24Z,2026-11-25,CGY at PIT,Matt Coronato under 2.5 shots on goal,Research only,54%,0b2031bbdb5eaf611e68255bbd5309687d0a4384e2bf371bca0e4b0767d61460,
 2026-11-25T08:38:24Z,2026-11-25,CAR at TBL,Seth Jarvis under 2.5 shots on goal,Research only,61%,6228095aa3ac68ed80000be0655f6f7c4bfc99a71d6aa2fdabff5b26e8210849,
 2026-11-25T09:59:10Z,2026-11-25,SJS at ANA,Alex Killorn under 1.5 shots on goal,Research only,51%,6e515119009cb05436db77352712ec6c654eb3612ec1dbf267e727f230553037,
@@ -115,7 +115,7 @@ logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
 2026-11-25T20:00:30Z,2026-11-25,SJS at ANA,Tristan Luneau: 1+ points,Research only,42%,15374ffb09602c3b9f82d3273b81889b0d5cd38ab1e946871e11f8dfe8c70738,
 2026-11-25T20:00:30Z,2026-11-25,SJS at ANA,Eric Pohlkamp under 1.5 shots on goal,Research only,63%,1762da4be0fed968f485be43da159d7a9976255818f55ab0016aaa8b9394d858,
 2026-11-25T20:00:30Z,2026-11-25,WPG at BOS,Morgan Geekie: no point,Research only,46%,4519e6641db09177563a61b6e9433e06349f43f6e6ca4cb28e9eca1c8de4eacf,
-2026-11-25T20:00:30Z,2026-11-25,WPG at BOS,WPG +1.5,Research only,66%,76e1449328d309ccd02daac695c6311fe1cd6087474110abff4db56c10b678c9,
+2026-11-25T20:00:30Z,2026-11-25,WPG at BOS,WPG +1.5,Research only,66%,76e1449328d309ccd02daac695c6311fe1cd6087474110abff4db56c10b678c9,won
 2026-11-25T20:00:30Z,2026-11-25,NYR at BUF,Joonas Korpisalo under 24.5 saves,Research only,53%,ecbdf731d9a9bf5d363579704e370625eeb44fc20142be6e2b04c329e047cdde,
 2026-11-25T20:00:30Z,2026-11-25,NJD at CBJ,Cam Talbot under 27.5 saves,Research only,59%,0ce0c887ac01ac0fd1ed02af0d4e8ffe74fca969cc653dd9b82d5cd362a1f200,
 2026-11-25T20:00:30Z,2026-11-25,MTL at COL,Jacob Fowler under 26.5 saves,Research only,57%,3f258720c9186ba3fdeb38df67dc4a57b21b758d3519451725d68785e9262644,
@@ -146,10 +146,10 @@ logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
 2026-11-25T22:04:25Z,2026-11-25,STL at NYI,Jake Neighbours: no assist,Research only,67%,dec98216244e98386492afbc6bcf2ac242b6e129cabe9594d840335bafa4c8d0,
 2026-11-25T22:04:25Z,2026-11-25,STL at NYI,Ilya Sorokin over 24.5 saves,Research only,50%,342ca23989f7a9c93fd41868c7aed828fc0315781ce50616cfcf558d679c3324,
 2026-11-25T22:04:25Z,2026-11-25,STL at NYI,Logan Mailloux: 1+ shots on goal,Research only,79%,8aac5fc13d4e52fc24918ee12d865c83129ae235620a04202838cf21d16d35ed,
-2026-11-25T22:45:10Z,2026-11-25,OTT at FLA,FLA over 2.5 goals,Research only,64%,cf50bc06f684b41d9db4f0544a9b6be0e71464a645ab459a252fccee86ae446d,
+2026-11-25T22:45:10Z,2026-11-25,OTT at FLA,FLA over 2.5 goals,Research only,64%,cf50bc06f684b41d9db4f0544a9b6be0e71464a645ab459a252fccee86ae446d,won
 2026-11-25T23:42:13Z,2026-11-25,NYR at BUF,Noah Ostlund over 1.5 shots on goal,Research only,44%,d9ce01397439e5ff1fc2c12fd0704c4c838e9703041c81d8275f22f2d26d8b37,
-2026-11-25T23:42:13Z,2026-11-25,NYR at BUF,BUF under 3.5 goals,Research only,60%,e548d30fe6083c1a98b05d94d771030cd460ce788e08fda9fd5cc7b18136146b,
-2026-11-25T23:42:13Z,2026-11-25,CAR at TBL,CAR to win,Research only,54%,724d270c1825bf9ac28828cc220bb64de3455940ba6720e3a58a512e2b10e6c7,
+2026-11-25T23:42:13Z,2026-11-25,NYR at BUF,BUF under 3.5 goals,Research only,60%,e548d30fe6083c1a98b05d94d771030cd460ce788e08fda9fd5cc7b18136146b,lost
+2026-11-25T23:42:13Z,2026-11-25,CAR at TBL,CAR to win,Research only,54%,724d270c1825bf9ac28828cc220bb64de3455940ba6720e3a58a512e2b10e6c7,won
 2026-11-25T23:42:13Z,2026-11-25,CAR at TBL,Sam O'Reilly: no assist,Research only,80%,de05227c3272a1a47ea3c188a1415cbae0d2757b75ee2390fea58ab50b7837d4,
 2026-11-25T23:42:13Z,2026-11-25,CAR at TBL,Brandon Bussi over 21.5 saves,Research only,54%,6d630b69606895bd357e781b0dcff1a983ceec99fc0ecb7d0f0406c9dd573c16,
 2026-11-25T23:42:13Z,2026-11-25,PHI at WSH,Travis Konecny: 1+ points,Research only,52%,59aa1cce851433b9c2191ba45f302f60e2fa22a32183fc03fdcfbc5319d9778b,
