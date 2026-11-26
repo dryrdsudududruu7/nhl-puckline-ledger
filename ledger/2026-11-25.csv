@@ -1,7 +1,7 @@
 logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
 2026-11-24T20:43:49Z,2026-11-25,SJS at ANA,Will Smith under 2.5 shots on goal,Research only,61%,d571381197d7203add32c21d7ebc2407660b83034119fd9215977f3d784cd8c5,
-2026-11-24T20:43:49Z,2026-11-25,SJS at ANA,SJS under 2.5 goals,Research only,43%,57afe99839a501f2dca37ae6d20acddc1d8520a104c00c7fa4d729a69444ee61,
-2026-11-24T20:43:49Z,2026-11-25,SJS at ANA,Under 6.5 goals,Research only,52%,b7236e211fac35119db9f7b3c8698146a8910dc1579819489fdc63ae971d0830,
+2026-11-24T20:43:49Z,2026-11-25,SJS at ANA,SJS under 2.5 goals,Research only,43%,57afe99839a501f2dca37ae6d20acddc1d8520a104c00c7fa4d729a69444ee61,won
+2026-11-24T20:43:49Z,2026-11-25,SJS at ANA,Under 6.5 goals,Research only,52%,b7236e211fac35119db9f7b3c8698146a8910dc1579819489fdc63ae971d0830,lost
 2026-11-24T20:43:49Z,2026-11-25,WPG at BOS,Kyle Connor under 3.5 shots on goal,Research only,52%,dbb150d2832d4275a0d45d85c7d3248d1d4cd208c2ab1293c0fb0718e94d92ea,
 2026-11-24T20:43:49Z,2026-11-25,WPG at BOS,Morgan Geekie under 1.5 shots on goal,Research only,44%,10029177fa7b11066f2b3fd09b00f0cfc83abe2d9763c649652d5d47a52ad6d5,
 2026-11-24T20:43:49Z,2026-11-25,WPG at BOS,BOS under 3.5 goals,Research only,57%,9bee31e71ed5dcdf481809d45ecd306cdcca2ab42d4e614c694bb6d5da673e3a,won
@@ -10,8 +10,8 @@ logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
 2026-11-24T20:43:49Z,2026-11-25,NYR at BUF,NYR +1.5,Research only,70%,dab6d2cf08dd2fb59e9da065e1e1ea6e13c6c6facbf40eb60fef1cdab77721e9,lost
 2026-11-24T20:43:49Z,2026-11-25,NJD at CBJ,CBJ +1.5,Research only,68%,d535c04e70e2720dad16b5a5615765ebded9035a196e29abac64ec94a3456b1b,won
 2026-11-24T20:43:49Z,2026-11-25,MTL at COL,Cale Makar to score,Research only,23%,01af72fbc606f4e83562138538e7d7dc6fbfc9c4b3629249a51252f2dc66b40b,
-2026-11-24T20:43:49Z,2026-11-25,MTL at COL,COL -1.5,Research only,37%,d63b9dba7f6b713b2ff4c1b507b16f9f29098c3042975042d5e5484313b87f27,
-2026-11-24T20:43:49Z,2026-11-25,MTL at COL,MTL under 2.5 goals,Research only,46%,130a4662da3d2f7be81ddb8e36dc0e7cc3178606b6af60c249fec2338e6c8370,
+2026-11-24T20:43:49Z,2026-11-25,MTL at COL,COL -1.5,Research only,37%,d63b9dba7f6b713b2ff4c1b507b16f9f29098c3042975042d5e5484313b87f27,won
+2026-11-24T20:43:49Z,2026-11-25,MTL at COL,MTL under 2.5 goals,Research only,46%,130a4662da3d2f7be81ddb8e36dc0e7cc3178606b6af60c249fec2338e6c8370,won
 2026-11-24T20:43:49Z,2026-11-25,NSH at DAL,Miro Heiskanen: 1+ assists,Research only,49%,3422696fa8121531ee95d4cb37d8a0690b444b518a5b1001fdd1c0bea7d0c078,
 2026-11-24T20:43:49Z,2026-11-25,NSH at DAL,Jason Robertson: 1+ points,Research only,72%,68f26ae50c87a66f01be2c855d9c08e7367ccbef554c766c3ae26e711f72621a,
 2026-11-24T20:43:49Z,2026-11-25,NSH at DAL,Mikko Rantanen: 1+ points,Research only,74%,de6130c6aabf9289102321ece83eb9c6f09e83eed9a9f3b48a6726f783ff130f,
@@ -139,7 +139,7 @@ logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
 2026-11-25T20:00:30Z,2026-11-25,PHI at WSH,Alex Ovechkin under 1.5 shots on goal,Research only,43%,cc90c51f33d303cd3ad0d6069a0d45eb177382e2603d7aaca32139fdd2eb8bbb,
 2026-11-25T20:00:30Z,2026-11-25,PHI at WSH,Ryan Leonard under 2.5 shots on goal,Research only,58%,7d6fba182d524c593d24b64d18568b85ce53a78dc938f16764d139d829029283,
 2026-11-25T22:04:25Z,2026-11-25,MTL at COL,Nicolas Roy: no shot on goal,Research only,26%,e6c9f385524bdd0f3bdaf16df12533bd500d4ce0fd6b3d9af04ed42403f55566,
-2026-11-25T22:04:25Z,2026-11-25,MTL at COL,MTL under 3.5 goals,Research only,66%,354bbb3788ff86d3654f23e2512c282591473fac6a717ebb6fba7e6395aa55fd,
+2026-11-25T22:04:25Z,2026-11-25,MTL at COL,MTL under 3.5 goals,Research only,66%,354bbb3788ff86d3654f23e2512c282591473fac6a717ebb6fba7e6395aa55fd,won
 2026-11-25T22:04:25Z,2026-11-25,VAN at DET,Leevi Meriläinen under 26.5 saves,Research only,60%,7db456281641b5452c2728b028c440f01115d35616ddde11b5db3a59a1beeebb,
 2026-11-25T22:04:25Z,2026-11-25,UTA at MIN,Maxim Shabanov: no point,Research only,57%,87da098817f660de71c8ded77737f7b50894cc4940806d2a8ea7499f513fef83,
 2026-11-25T22:04:25Z,2026-11-25,UTA at MIN,Jack McBain under 1.5 shots on goal,Research only,67%,e27255828487086cba147c6fdaee8812a6310c6fbf1c8348eec796117d51e504,
