@@ -99,3 +99,7 @@ logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
 2026-11-27T08:37:50Z,2026-11-27,VGK at SJS,Mark Stone under 1.5 shots on goal,Research only,43%,24889bc3bc6a6bd9bc6f33d5a606069cc2f467ff522e90b2ac35c8fc063d4aaa,
 2026-11-27T08:37:50Z,2026-11-27,OTT at TBL,Sam O'Reilly: no point,Research only,70%,7ab1fe3ffd8fe0032ce046c9586fe2eabdfed8fb7aeb99c0b6a5107bb5085eb6,
 2026-11-27T08:37:50Z,2026-11-27,FLA at WSH,Aleksander Barkov: no point,Research only,46%,1c3ecf0dc35f49dc57880afa0b593adcc9c6705cfdf3445ff128fcd965c1af9f,
+2026-11-27T09:49:00Z,2026-11-27,NYR at CHI,Alexis Lafrenière under 2.5 shots on goal,Research only,58%,250a7c0146b944a17a3c3db7307d7dbb8773e92cd7f48a9514610edfca17774e,
+2026-11-27T09:49:00Z,2026-11-27,VAN at PHI,Marco Rossi: no point,Research only,60%,6cb65b5b264be61861e3a5049b0ae854748172f315f47967ddf6013232e892b2,
+2026-11-27T09:49:00Z,2026-11-27,DAL at STL,Jamie Benn: no point,Research only,64%,327225a4660fbcea8a8810cc30d8f6bdb7e4dbb7c3e7bdc27039d58ee93171b1,
+2026-11-27T09:49:00Z,2026-11-27,OTT at TBL,Nikita Kucherov: 1+ points,Research only,77%,907f18246590b09d264c08e9756657cef3f132be7d9ce4863702de7bf458132c,
