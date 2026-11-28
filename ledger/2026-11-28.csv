@@ -79,3 +79,7 @@ logged_at_utc,game_day,game,pick,label,model_chance,commitment,result
 2026-11-28T07:52:09Z,2026-11-28,WSH at STL,Robert Thomas under 1.5 shots on goal,Research only,47%,c3b6a0cf1f3c47919e65de4c0a7d528ce54807ce1c54ebdb00e781d1b99004c5,
 2026-11-28T07:52:09Z,2026-11-28,MTL at VGK,Ivan Barbashev under 1.5 shots on goal,Research only,51%,c4d14255d975b951570e3a3fabdbf573d001e8adc301ca96476b1311b000dec1,
 2026-11-28T07:52:09Z,2026-11-28,MTL at VGK,William Karlsson under 2.5 shots on goal,Research only,65%,426f3c37c9495de87722f948ba0bab54f4ebc57efe9cbf6430fc29c594e13eee,
+2026-11-28T09:00:37Z,2026-11-28,TBL at FLA,Nikita Kucherov: 1+ points,Research only,75%,905543948c7d387d7e9130ccad6e56003b8c488d09b1b52dadbb197f654306e1,
+2026-11-28T09:00:37Z,2026-11-28,WPG at NJD,Luke Hughes: no assist,Research only,58%,9e1dffee9d1dc411bd49d7e7b187fc180fc8c0e4129e10707abe61a01747f779,
+2026-11-28T09:00:37Z,2026-11-28,NYI at PHI,Simon Holmstrom: 1+ points,Research only,45%,5eee3d7ec3105a424111fc404b0a2e29b5540c97a84c9a5bfab56ba04a2da8a0,
+2026-11-28T09:00:37Z,2026-11-28,WSH at STL,Jake Neighbours: no assist,Research only,61%,aae5c5f4432857cb8c7f8df691a6937577ec4c9bd68d4d627c3c7802dea82210,
